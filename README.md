@@ -1,5 +1,5 @@
 # eddAddtoCartIfNotBought
-Add to cart button for free products if EDD (easy digital downloads) free product plugin active
+Add to cart button for free products if EDD (easy digital downloads) free product plugin active and if user not purchaed the product/download
 
 SETUP
 - Add addtocartifnotbought.js to your website (it also has one line css file, you can remove it and add it to any of your css file)

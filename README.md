@@ -16,6 +16,7 @@ You can use addToCartButtonIfNotBought shortcode to your Toolset template as fol
 
 If you are using free products plugin and toolset, your template should look like this 
 
+[code]
  [wpv-conditional if="( $(edd_price) gt '0' )"]
     [purchase_link id="[wpv-post-id]" style="button"]
         [/wpv-conditional]
@@ -36,5 +37,5 @@ If you are using free products plugin and toolset, your template should look lik
 </a>
         [/edd_is_user_logged_out]
         [/wpv-conditional]
- 
+ [/code]
  

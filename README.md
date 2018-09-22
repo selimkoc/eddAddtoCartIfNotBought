@@ -31,7 +31,7 @@ If you are using free products plugin and toolset, your template should look lik
         
         
         [edd_is_user_logged_out]
-       <a href="http://dtl.foxrobinson.com/register" class="button blue edd-submit"><span class="edd-add-to-cart-label">Download</span></a>
+       <a href="http://example.com/register" class="button blue edd-submit"><span class="edd-add-to-cart-label">Download</span></a>
         [/edd_is_user_logged_out]
     [/wpv-conditional]
 
